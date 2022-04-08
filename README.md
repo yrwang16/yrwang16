@@ -3,7 +3,6 @@
 🔭 I’m currently working on Combustion kinetics & Machine Learning.<br>
 🌱 I’m currently learning Deep Learning, Statistical Learning topics.<br>
 📫 How to reach me: wangyr20@mails.tsinghua.edu.cn<br>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrwang16&count_private=true&layout=compact">
 
 <!--
